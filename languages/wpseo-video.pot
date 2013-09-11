@@ -1,0 +1,233 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wpseo-video\n"
+"POT-Creation-Date: 2013-02-28 08:36:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: video-seo.php:208
+msgid "Video SEO"
+msgstr ""
+
+#: video-seo.php:2408 video-seo.php:2434
+msgid "Video"
+msgstr ""
+
+#: video-seo.php:2574
+msgid "Disable video"
+msgstr ""
+
+#: video-seo.php:2575
+msgid "Disable video for this %s"
+msgstr ""
+
+#: video-seo.php:2581
+msgid "URL to thumbnail image (remember it'll be displayed as 16:9)"
+msgstr ""
+
+#: video-seo.php:2582
+msgid "Video Thumbnail"
+msgstr ""
+
+#: video-seo.php:2583
+msgid "Now set to %1$sthis image%2$s based on the embed code."
+msgstr ""
+
+#: video-seo.php:2589
+msgid "Not Family-friendly"
+msgstr ""
+
+#: video-seo.php:2590
+msgid "If this video should only be available for safe search users, check this box."
+msgstr ""
+
+#: video-seo.php:2596
+msgid "Rating"
+msgstr ""
+
+#: video-seo.php:2597
+msgid "Between 0 and 5"
+msgstr ""
+
+#: video-seo.php:2762
+msgid " (because it's a video snippet)"
+msgstr ""
+
+#: video-seo.php:2817
+msgid "Yoast WordPress SEO: "
+msgstr ""
+
+#: video-seo.php:2817
+msgid "Video SEO Settings"
+msgstr ""
+
+#: video-seo.php:2829
+msgid "License"
+msgstr ""
+
+#: video-seo.php:2830
+msgid "License Key"
+msgstr ""
+
+#: video-seo.php:2833
+msgid "License Status"
+msgstr ""
+
+#: video-seo.php:2833
+msgid "active"
+msgstr ""
+
+#: video-seo.php:2833
+msgid "inactive"
+msgstr ""
+
+#: video-seo.php:2836
+msgid "Deactivate License"
+msgstr ""
+
+#: video-seo.php:2837
+msgid "If you want to stop this site from counting towards your license limit, should you have one, simply press deactivate license above."
+msgstr ""
+
+#: video-seo.php:2840
+msgid "Please enable the XML sitemap under the SEO -> XML Sitemaps settings"
+msgstr ""
+
+#: video-seo.php:2848
+msgid "General Settings"
+msgstr ""
+
+#: video-seo.php:2849
+msgid "Please find your video sitemap here:"
+msgstr ""
+
+#: video-seo.php:2849
+msgid "Video Sitemap"
+msgstr ""
+
+#: video-seo.php:2852
+msgid "Hide the sitemap from normal visitors?"
+msgstr ""
+
+#: video-seo.php:2855
+msgid "Custom fields:"
+msgstr ""
+
+#: video-seo.php:2857
+msgid "Custom fields the plugin should check for video content (comma separated)"
+msgstr ""
+
+#: video-seo.php:2863
+msgid "Embed Settings"
+msgstr ""
+
+#: video-seo.php:2869
+msgid "Try to make video's repsonsive using %sFitVids.js%s?"
+msgstr ""
+
+#: video-seo.php:2873
+msgid "Content width:"
+msgstr ""
+
+#: video-seo.php:2875
+msgid "This defaults to your themes content width, but if it's empty, setting a value here will make sure videos are embedded in the right width."
+msgstr ""
+
+#: video-seo.php:2880
+msgid "Vzaar domain:"
+msgstr ""
+
+#: video-seo.php:2882
+msgid "If you use Vzaar, set this to the domainname you use for your Vzaar videos, no http: or slashes needed."
+msgstr ""
+
+#: video-seo.php:2884
+msgid "Post Types to include in XML Video Sitemap"
+msgstr ""
+
+#: video-seo.php:2885
+msgid "Determine which post types on your site might contain video."
+msgstr ""
+
+#: video-seo.php:2899
+msgid "Taxonomies to include in XML Video Sitemap"
+msgstr ""
+
+#: video-seo.php:2900
+msgid "You can also include your taxonomy archives, for instance, if you have videos on a category page."
+msgstr ""
+
+#: video-seo.php:2919
+msgid "Insert the license key you got when you bought the plugin, then click save."
+msgstr ""
+
+#: video-seo.php:2925
+msgid "Save Settings"
+msgstr ""
+
+#: video-seo.php:2936
+msgid "Indexation of Video's in your content"
+msgstr ""
+
+#: video-seo.php:2938
+msgid "This process goes through all the post types specified by you, as well as the terms of each taxonomy, to check for videos in the content. If the plugin finds a video, it updates the meta data for that piece of content, so it can add that meta data and content to the XML Video Sitemap."
+msgstr ""
+
+#: video-seo.php:2940
+msgid "By default the plugin only checks content that hasn't been checked yet. However, if you check 'Force Re-Index', it will re-check all content. This is particularly interesting if you want to check for a video embed code that wasn't supported before, of if you want to update thumbnail images en masse."
+msgstr ""
+
+#: video-seo.php:2944
+msgid "Force reindex of already indexed video's."
+msgstr ""
+
+#: video-seo.php:2947
+msgid "Re-Index Videos"
+msgstr ""
+
+#: video-seo.php:3239
+msgid "Reindex starts...."
+msgstr ""
+
+#: video-seo.php:3269
+msgid "Found %d pieces of content to search through"
+msgstr ""
+
+#: video-seo.php:3285
+msgid "Found %d terms to search through"
+msgstr ""
+
+#: video-seo.php:3295
+msgid "Reindex completed."
+msgstr ""
+
+#: video-seo.php:3318
+msgid "video"
+msgstr ""
+
+#: video-seo.php:3321
+msgid "You should consider adding the word \"video\" in your title, to optimize your ability to be found by people searching for video."
+msgstr ""
+
+#: video-seo.php:3326
+msgid "You're using the word \"video\" in your title, this optimizes your ability to be found by people searching for video."
+msgstr ""
+
+#: video-seo.php:3333
+msgid "Your body copy is optimal length for your video to be recognized by Search Engines."
+msgstr ""
+
+#: video-seo.php:3338
+msgid "Your body copy is too short for Search Engines to understand the topic of your video, add some more content describing the contents of the video."
+msgstr ""
+
+#: video-seo.php:3343
+msgid "Your body copy is quite long, make sure that the video is the most important asset on the page, read %1$sthis post%2$s for more info."
+msgstr ""
